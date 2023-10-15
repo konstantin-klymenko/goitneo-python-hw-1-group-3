@@ -1,6 +1,6 @@
 def main():
     contacts = {}
-    print("Welcome to the assistant bot created by Konstantin Klimenko!")
+    print("Welcome to the assistant bot created by Kostiantyn Klymenko!")
     while True:
         user_input = input("Enter a command: ")
         command, *args = user_input.split()
